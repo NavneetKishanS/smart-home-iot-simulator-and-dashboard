@@ -27,6 +27,7 @@ This project is designed as an educational tool to understand the basics of smar
 ## Dependencies
 - Python 3
 - Tkinter library
+<img width="608" alt="image" src="https://github.com/NavneetKishanS/smart-home-iot-simulator-and-dashboard/assets/115086283/6bffbc52-d283-4647-a143-d10c843ec56b">
 
 ![IoT Smart Home Simulator GUI](https://github.com/NavneetKishanS/IoT_SmartHomeSimulator/assets/gui_screenshot.png)
 
